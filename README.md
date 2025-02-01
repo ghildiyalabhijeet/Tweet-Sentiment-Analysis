@@ -132,17 +132,13 @@ y_pred = np.argmax(y_pred_probs, axis=1)
 git clone https://github.com/your-username/twitter-sentiment-analysis.git
 cd twitter-sentiment-analysis
 ```
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-3. Load `train.csv` and `test.csv`
-4. Run the Jupyter Notebook:
+2. Load `train.csv` and `test.csv`
+3. Run the Jupyter Notebook:
 ```bash
 jupyter notebook twitter-sentiment-analysis.ipynb
 ```
-5. Train the ALBERT model and evaluate performance
-6. Analyze predictions and visualize results
+4. Train the ALBERT model and evaluate performance
+5. Analyze predictions and visualize results
 
 ---
 
