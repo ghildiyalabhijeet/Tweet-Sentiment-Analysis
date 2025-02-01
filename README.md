@@ -51,6 +51,7 @@ nltk.download('wordnet')
 The project uses:
 - **`train.csv`** - Training dataset with labeled tweets.
 - **`test.csv`** - Test dataset for model evaluation.
+- **'Link'** - https://www.kaggle.com/competitions/tweet-sentiment-extraction/data
 
 The dataset contains:
 - `text` - Raw tweet text
