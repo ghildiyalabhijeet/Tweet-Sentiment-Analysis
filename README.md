@@ -30,16 +30,7 @@ This project covers **data preprocessing, tokenization, model training, evaluati
 ## **Installation & Dependencies**
 Ensure you have the following dependencies installed:
 
-```bash
-pip install -r requirements.txt
-```
-
-If you don't have `requirements.txt`, manually install:
-```bash
-pip install matplotlib seaborn emoji nltk wordcloud scikit-learn nlpaug tensorflow tf-keras transformers pandas
-```
-
-Additionally, download **NLTK resources**:
+download **NLTK resources**
 ```python
 import nltk
 nltk.download('wordnet')
